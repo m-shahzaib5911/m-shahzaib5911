@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi! I'm Muhammad Shahzaib.A Bachelor's cybersecurity student with a strong passion for offensive security and red teaming. I enjoy exploring how systems can be broken, secured, and strengthened, while also learning blue team methodologies to understand defense from the inside out.<br><br>💻 I love solving complex problems, analyzing how things work under the hood, and improving my skills through hands-on practice. Programming is a big part of my learning journey, and I use it to automate tasks, build tools, and better understand security concepts.<br><br>🔐 Always learning, always experimenting, and always pushing to grow as a cybersecurity professional.
+👋 Hi! I'm Muhammad Shahzaib. A Cyber Security Analyst with a strong passion for offensive security and red teaming. I enjoy exploring how systems can be broken, secured, and strengthened, while also learning blue team methodologies to understand defense from the inside out.<br><br>💻 I love solving complex problems, analyzing how things work under the hood, and improving my skills through hands-on practice. Programming is a big part of my learning journey, and I use it to automate tasks, build tools, and better understand security concepts.<br><br>🔐 Always learning, always experimenting, and always pushing to grow as a cybersecurity professional.
 
 
 ## 🌐 Socials:
