@@ -1,9 +1,6 @@
 # 💫 About Me:
-👋 Hi! I'm Muhammad Shahzaib. A Cyber Security Analyst with a strong passion for offensive security and red teaming. I enjoy exploring how systems can be broken, secured, and strengthened, while also learning blue team methodologies to understand defense from the inside out.<br><br>💻 I love solving complex problems, analyzing how things work under the hood, and improving my skills through hands-on practice. Programming is a big part of my learning journey, and I use it to automate tasks, build tools, and better understand security concepts.<br><br>🔐 Always learning, always experimenting, and always pushing to grow as a cybersecurity professional.
+👋 Hi! I'm Muhammad Shahzaib. A Cyber Security enthusiast with a strong passion for offensive security and trying to do his best. I enjoy exploring how systems can be broken, secured, and strengthened, while also learning blue team methodologies to understand defense from the inside out.<br><br>💻 I love solving complex problems, analyzing how things work under the hood, and improving my skills through hands-on practice. Programming is a big part of my learning journey, and I use it to automate tasks, build tools, and better understand security concepts.<br><br>🔐 Always learning, always experimenting, and always pushing to grow as a cybersecurity professional.
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahzaib-cyberknight) 
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
