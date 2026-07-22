@@ -11,18 +11,19 @@
   deployed instance (e.g. "github-readme-stats-yourname.vercel.app") once you've
   forked + deployed it with your own PAT_1 token. See deployment steps provided.
 -->
-![](https://github-readme-stats.vercel.app/api?username=m-shahzaib5911&theme=dark&hide_border=false&include_all_commits=false&count_private=false&cache_bust=1)<br/>
+![](https://github-readme-stats.vercel.app/api?username=m-shahzaib5911&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1800)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=m-shahzaib5911&theme=dark&hide_border=false&cache_bust=1)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=m-shahzaib5911&theme=dark&hide_border=false&include_all_commits=false&count_private=false&cache_bust=1)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=m-shahzaib5911&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1800)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=m-shahzaib5911&theme=dracula&no-frame=true&no-bg=false&margin-w=4&cache_bust=1)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=m-shahzaib5911&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1800)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=m-shahzaib5911&limit=5&theme=dark&combine_all_yearly_contributions=true&cache_bust=1)
+![](https://github-contributor-stats.vercel.app/api?username=m-shahzaib5911&limit=5&theme=dark&combine_all_yearly_contributions=true&layout=compact&cache_seconds=1800)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=m-shahzaib5911&icon=9&color=0)](https://visitcount.itsvg.in)
