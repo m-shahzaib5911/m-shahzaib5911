@@ -5,18 +5,24 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-%230E83CD.svg?style=for-the-badge&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%23FF6633.svg?style=for-the-badge&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-%232596CD.svg?style=for-the-badge&logoColor=white) ![SQLMap](https://img.shields.io/badge/SQLMap-%23CC0000.svg?style=for-the-badge&logoColor=white) ![Gobuster](https://img.shields.io/badge/Gobuster-%2300897B.svg?style=for-the-badge&logoColor=white) ![ffuf](https://img.shields.io/badge/ffuf-%234B0082.svg?style=for-the-badge&logoColor=white) ![Hydra](https://img.shields.io/badge/Hydra-%230077B5.svg?style=for-the-badge&logoColor=white) ![Hashcat](https://img.shields.io/badge/Hashcat-%23E95420.svg?style=for-the-badge&logoColor=white) ![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-%23343434.svg?style=for-the-badge&logoColor=white) ![Mimikatz](https://img.shields.io/badge/Mimikatz-%23CC0000.svg?style=for-the-badge&logoColor=white) ![BloodHound](https://img.shields.io/badge/BloodHound-%23CC0000.svg?style=for-the-badge&logoColor=white) ![Impacket](https://img.shields.io/badge/Impacket-%2300897B.svg?style=for-the-badge&logoColor=white) ![Nikto](https://img.shields.io/badge/Nikto-%23E95420.svg?style=for-the-badge&logoColor=white) ![Netcat](https://img.shields.io/badge/Netcat-%23343434.svg?style=for-the-badge&logoColor=white) ![OWASP](https://img.shields.io/badge/OWASP-%23000000.svg?style=for-the-badge&logo=owasp&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white) ![Splunk](https://img.shields.io/badge/Splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Snort](https://img.shields.io/badge/Snort-%23CC0000.svg?style=for-the-badge&logoColor=white) ![Volatility](https://img.shields.io/badge/Volatility-%234B0082.svg?style=for-the-badge&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-%230078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=m-shahzaib5911&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=m-shahzaib5911&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=m-shahzaib5911&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- 
+  TEMP FIX: cache_bust param added to force GitHub to refetch (bypasses camo cache).
+  PERMANENT FIX: replace "github-readme-stats.vercel.app" below with your own
+  deployed instance (e.g. "github-readme-stats-yourname.vercel.app") once you've
+  forked + deployed it with your own PAT_1 token. See deployment steps provided.
+-->
+![](https://github-readme-stats.vercel.app/api?username=m-shahzaib5911&theme=dark&hide_border=false&include_all_commits=false&count_private=false&cache_bust=1)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=m-shahzaib5911&theme=dark&hide_border=false&cache_bust=1)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=m-shahzaib5911&theme=dark&hide_border=false&include_all_commits=false&count_private=false&cache_bust=1)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=m-shahzaib5911&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=m-shahzaib5911&theme=dracula&no-frame=true&no-bg=false&margin-w=4&cache_bust=1)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=m-shahzaib5911&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=m-shahzaib5911&limit=5&theme=dark&combine_all_yearly_contributions=true&cache_bust=1)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=m-shahzaib5911&icon=9&color=0)](https://visitcount.itsvg.in)
